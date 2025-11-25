@@ -2,7 +2,7 @@
 
 ## About the Product
 
-| ![Hall effect sensor breakout with analog output Image](https://solde.red/333079/image) |
+| ![Hall effect sensor breakout with analog output Image]() |
 | :----------------------------------------------------------: |
 | [Buy Hall effect sensor breakout with analog output](https://fabemit.com/?post_type=product&p=6724&preview=true) |
 
@@ -44,7 +44,7 @@ Beyond the repository, explore the following resources:
 
 ### fabemit Community
 
-<img src="https://github.com/SolderedElectronics/Soldered-Resources-Repo/blob/main/images/Soldered%20Community%20Logo.png?raw=true" width="300" alt="soldered-verify-logo" align="left">
+<img src="" width="300" alt="soldered-verify-logo" align="left">
 
 fabemit Community is your go-to place for technical support. I try to track all questions posted there, and it’s a great space for the maker community. Get answers to your questions and solutions for our projects at the [fabemit Community](https://forum.fabemit.com/).
 
@@ -67,7 +67,7 @@ We encourage community collaboration to make this product even better.
 
 ## About fabemit
 
-<img src="https://github.com/SolderedElectronics/Soldered-Resources-Repo/blob/main/images/Soldered-logo-color.png?raw=true" alt="soldered-logo" width="500"/>
+<img src="" alt="soldered-logo" width="500"/>
 
 [fabemit for Makers](https://fabemit.com) enjoys designing and manufacturing electronic products and projects tailored for enthusiasts, ranging from hobbyists to professionals. Our portfolio includes electronic boards, sensors, hobby equipment and generally anything that I am interested in. Every project we offer is designed in-house and built upon open-source hardware and software platforms.
 
