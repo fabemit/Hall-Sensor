@@ -2,7 +2,7 @@
 
 ## About the Product
 
-| ![Hall effect sensor breakout with analog output Image]() |
+| ![Hall effect sensor breakout with analog output Image](https://github.com/fabemit/Hall-Sensor/blob/main/images/Hall-Sensor.png) |
 | :----------------------------------------------------------: |
 | [Buy Hall effect sensor breakout with analog output](https://fabemit.com/?post_type=product&p=6724&preview=true) |
 
