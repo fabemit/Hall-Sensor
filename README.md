@@ -1,6 +1,6 @@
 # Hall effect sensor breakout with analog output Hardware Design
 
-## About the Product
+## About the Project
 
 | ![Hall effect sensor breakout with analog output Image](https://github.com/fabemit/Hall-Sensor/blob/main/images/Hall-Sensor.png) |
 | :----------------------------------------------------------: |
