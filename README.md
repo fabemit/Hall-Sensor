@@ -27,7 +27,7 @@ This repository contains all design files for Hall effect sensor breakout with a
   - PDF versions of schematics
   - Gerber files for PCB manufacturing
   - Image of the pinout of the board
-- **`BOM` folder**: Includes all production-ready files, such as:
+- **`BOM` folder**: Includes files, such as:
   - Bill of Materials (BOM) and interactive BOM (iBOM)
   - Compliance, legal and generic sales documents
 - **`IMAGES` folder**: Includes files, such as:
@@ -41,6 +41,12 @@ Refer to the `Change Log` in the CAD folder for details about updates between ve
 ## Learn More About the Product
 
 Beyond the repository, explore the following resources:
+
+### Hall Sensor Build Guide
+
+The full list of materials (BOM), Mechanical and Electrical build guides, Software and Firmware installation etc.. can all be found here.
+
+[Hall Sensor Docs](https://docs.fabemit.com/).
 
 ### fabemit Community
 
